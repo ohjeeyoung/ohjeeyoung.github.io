@@ -1,35 +1,17 @@
-## 오지영의 블로그에 방문하신걸 환영합니다.
+## 오지영의 블로그에 방문하신걸 환영합니다😊
+
+![KakaoTalk_Photo_2020-08-27-16-41-44](https://user-images.githubusercontent.com/62995632/95622857-451cc500-0aaf-11eb-96df-b914c5dcd21e.jpeg)
+
+### Know more about me!
+- 중앙대학교 소프트웨어학부 3학년에 재학(현재는 휴학) 중입니다!
+- 백엔드 개발자가 되는 것이 목표입니다.
+- 중앙대학교 멋쟁이 사자처럼 8기로 활동 중입니다. 9기 운영진으로 활동할 예정입니다.
+- 다양한 활동과 도전을 통해 프론트, 백 모두 공부하고 프로젝트 경험 또한 있습니다.
+- 알고리즘 스터디를 꾸준히 진행하며 CS 지식을 쌓아가고 있습니다.
+- Github을 이용해 협업하며 웹 서비스를 개발하고 있습니다.
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ohjeeyoung/ohjeeyoung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 🙌Feel free to contact me
+- email: jeeyoung990725@naver.com
+- Github: https://github.com/ohjeeyoung
