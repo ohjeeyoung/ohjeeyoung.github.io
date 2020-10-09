@@ -1,6 +1,6 @@
 ## 오지영의 블로그에 방문하신걸 환영합니다😊
 
-![KakaoTalk_Photo_2020-08-27-16-41-44](https://user-images.githubusercontent.com/62995632/95622857-451cc500-0aaf-11eb-96df-b914c5dcd21e.jpeg)
+<img src="https://user-images.githubusercontent.com/62995632/95622857-451cc500-0aaf-11eb-96df-b914c5dcd21e.jpeg"  width="25%" height="25%">
 
 ### Know more about me!
 - 중앙대학교 소프트웨어학부 3학년에 재학(현재는 휴학) 중입니다!
